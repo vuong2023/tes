@@ -1,3 +1,10 @@
+# 1.0.0 (2023-09-18)
+
+
+### Features
+
+* Navigate ([c460063](https://github.com/vuong2023/tes/commit/c460063c635b903b46c64398e8004b69333e9bbc))
+
 # [2.192.0](https://github.com/YT-Advanced/adspatch/compare/v2.191.1...v2.192.0) (2023-09-17)
 
 
